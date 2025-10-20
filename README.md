@@ -1,4 +1,4 @@
-# 🐦 Flappy Bird — Dueling Double DQN (State-Based)
+# 🐦 Flappy Bird - Dueling Double DQN (State-Based)
 
 A reinforcement learning project that trains an AI agent to play **Flappy Bird** using a **Dueling Double Deep Q-Network (DQN)** architecture.  
 Built with **PyTorch**, **Gymnasium**, and **FlappyBird-gym**.  
@@ -35,7 +35,7 @@ pip install matplotlib
 
 ```
 ---
-DEMO
+**DEMO**
 <p align="center">
   <img src="/flappy-bird-demo.gif" alt="Flappy Bird AI Demo" width="400">
 </p>
