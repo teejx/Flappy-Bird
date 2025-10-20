@@ -32,3 +32,10 @@ pip install flappy-bird-gymnasium
 pip install opencv-python
 pip install imageio
 pip install matplotlib
+
+
+---
+demo
+<p align="center">
+  <img src="assets/flappy bird demo.gif" alt="Flappy Bird AI Demo" width="400">
+</p>
