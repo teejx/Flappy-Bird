@@ -37,5 +37,5 @@ pip install matplotlib
 ---
 # 🎮 DEMO
 <p align="center">
-  <img src="/flappy-bird-demo.gif" alt="Flappy Bird AI Demo" width="400">
+  <img src="asset/flappy-bird-demo.gif" alt="Flappy Bird AI Demo" width="400">
 </p>
