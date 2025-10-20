@@ -2,7 +2,7 @@
 
 A reinforcement learning project that trains an AI agent to play **Flappy Bird** using a **Dueling Double Deep Q-Network (DQN)** architecture.  
 Built with **PyTorch**, **Gymnasium**, and **FlappyBird-gym**.  
-This implementation focuses on **state-based observation**, **reward shaping**, and **stable training** — with built-in **video recording** of the trained agent.
+This implementation focuses on **state-based observation**, **reward shaping**, and **stable training** - with built-in **video recording** of the trained agent.
 
 ---
 
