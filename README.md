@@ -9,7 +9,7 @@ This implementation focuses on **state-based observation**, **reward shaping**, 
 ## 🚀 Features
 
 - ✅ **Dueling DQN + Double DQN** for more stable and efficient learning  
-- 🧠 **State-based representation** (no pixel input)  
+- 🧠 **State-based representation**
 - 🎥 **Automatic gameplay recording** (top 10 episodes merged into a single video)  
 - 💾 **Replay buffer** experience sampling  
 - 📉 **Epsilon-greedy exploration with decay**  
